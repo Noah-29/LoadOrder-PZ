@@ -37,6 +37,8 @@ Le script trie vos mods selon 7 catégories essentielles pour la stabilité :
 6. **Craft & Items**
 7. **Véhicules**
 
+> [!IMPORTANT]
+> **⚠️ Attention sur le tri :** La précision de la catégorisation dépend entièrement des informations saisies par les créateurs de mods. Si un moddeur n'a pas spécifié de catégorie ou a mal rempli son fichier `mod.info`, le mod peut être mal classé. **Une vérification manuelle du fichier de sortie est donc fortement recommandée.**
 ---
 
 ## 🚀 Installation
