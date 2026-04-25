@@ -45,5 +45,5 @@ Le script trie vos mods selon 7 catégories essentielles pour la stabilité :
 
 1. **Clonez le dépôt :**
    ```bash
-   git clone [https://github.com/votre-pseudo/LoadOrder.git](https://github.com/votre-pseudo/LoadOrder.git)
-   cd LoadOrder
+   git clone [https://github.com/Noah-29/LoadOrder-PZ.git](https://github.com/Noah-29/LoadOrder-PZ/blob/main/LoadOrder.py)
+   cd LoadOrder-PZ
