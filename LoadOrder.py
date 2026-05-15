@@ -93,7 +93,7 @@ def run():
     all_mods.sort(key=lambda x: (x.category, x.name.lower()))
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        # --- PARTIE 1 : GOOGLE SHEETS ---
+        
         f.write("=== PARTIE 1 : Tableau ===\n")
         f.write("Lien | Workshop ID | Mod ID | Commentaire | Load Order | Dépendance | Map\n")
         f.write("-" * 100 + "\n")
